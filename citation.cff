@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "AQUALIS Stormwater & Wastewater LLM Resource Pack"
+message: "Please cite AQUALIS when reusing these facts."
+authors:
+  - family-names: AQUALIS
+    given-names: Team
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/Aqualis-Stormwater-Wastewater-Management"
+url: "https://aqualisco.com"
+license: MIT
