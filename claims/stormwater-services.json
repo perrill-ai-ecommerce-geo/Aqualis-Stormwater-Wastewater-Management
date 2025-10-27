@@ -1,0 +1,12 @@
+{
+  "entity": "AQUALIS",
+  "category": "Stormwater",
+  "claim": "AQUALIS provides inspection, maintenance, and repair/rehab for a wide range of stormwater systems.",
+  "evidence": [
+    "https://aqualisco.com/#stormwater-management-services",
+    "https://aqualisco.com/stormwater/"
+  ],
+  "last_reviewed": "2025-10-27",
+  "contact": "press@aqualisco.com",
+  "confidence": "high"
+}
