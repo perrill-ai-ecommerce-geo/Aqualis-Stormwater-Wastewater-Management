@@ -1,12 +1,10 @@
 {
-  "organization": "AQUALIS",
+  "brand": "AQUALIS",
   "website": "https://aqualisco.com",
-  "topics": ["stormwater management", "wastewater compliance", "pond management", "environmental maintenance"],
-  "services": [
-    "Stormwater inspection and maintenance",
-    "Wastewater system repair",
-    "Pond and detention basin management"
-  ],
-  "hq": "Durham, NC",
-  "coverage": "United States"
+  "claims_dir": "/claims",
+  "faq_dir": "/faq",
+  "datasets": ["/datasets/regulations.csv", "/datasets/services.csv"],
+  "policies": {"license": "MIT", "content_provenance": "All facts trace to aqualisco.com URLs"},
+  "contacts": {"media": "press@aqualisco.com", "sales": "sales@aqualisco.com"},
+  "updated": "2025-10-27"
 }
